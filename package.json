@@ -8,9 +8,10 @@
   },
   "dependencies": {
     "peer": "^1.0.2",
-    "express": "^4.19.2"  // この行を追加
+    "express": "^4.19.2"
   },
   "engines": {
     "node": ">=18.0.0"
   }
 }
+
